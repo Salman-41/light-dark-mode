@@ -3,3 +3,7 @@ INFO [2023-10-26T16:40:26.526Z]: Set User: a4be037d-6ee1-40db-ab8b-776ce0c4e912
 INFO [2023-10-26T16:40:26.527Z]: Initializing feature flags
 INFO [2023-10-26T16:40:37.725Z]: Tracking open event
 INFO [2023-10-26T16:40:37.740Z]: {}
+INFO [2023-10-27T16:06:26.664Z]: Set User: a4be037d-6ee1-40db-ab8b-776ce0c4e912
+INFO [2023-10-27T16:06:26.665Z]: Initializing feature flags
+INFO [2023-10-27T16:06:38.676Z]: Split failed to initialize
+INFO [2023-10-27T16:06:38.697Z]: Initializing workspace controller
