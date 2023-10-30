@@ -21,7 +21,7 @@ Before you get started, make sure you have the following:
 ## How to Use
 
 1. Clone or download the repository to your local machine.
-2. git clone <repository-url>
+2. git clone <https://github.com/Salman-41/light-dark-mode.git>
 3. Open the project folder in your code editor.
 4. Open the `index.html` file in your web browser to see the website.
 
